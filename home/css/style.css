@@ -1444,4 +1444,6 @@ section {
         float: none;
         text-align: ceneter;
     }
+    #blog-pager(display:none;)
+    
 }
